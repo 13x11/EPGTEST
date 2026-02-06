@@ -1,30 +1,31 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260205">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260206">
 <channel id="TVNZ1.nz@SD"><display-name>One</display-name><icon src="https://i.imgur.com/Nx76HUE.png"/><url>https://sky.co.nz</url></channel>
-<channel id="620"><display-name>Court 17</display-name><url>https://sky.co.nz</url></channel>
-<channel id="619"><display-name>Court 16</display-name><url>https://sky.co.nz</url></channel>
-<channel id="618"><display-name>Court 15</display-name><url>https://sky.co.nz</url></channel>
-<channel id="617"><display-name>Court 14</display-name><url>https://sky.co.nz</url></channel>
-<channel id="616"><display-name>Court 13</display-name><url>https://sky.co.nz</url></channel>
-<channel id="615"><display-name>Court 12</display-name><url>https://sky.co.nz</url></channel>
-<channel id="614"><display-name>Court 8</display-name><url>https://sky.co.nz</url></channel>
-<channel id="613"><display-name>Court 7</display-name><url>https://sky.co.nz</url></channel>
-<channel id="612"><display-name>Court 6</display-name><url>https://sky.co.nz</url></channel>
-<channel id="611"><display-name>Court 5</display-name><url>https://sky.co.nz</url></channel>
-<channel id="610"><display-name>Court 3</display-name><url>https://sky.co.nz</url></channel>
-<channel id="609"><display-name>1573 Arena</display-name><url>https://sky.co.nz</url></channel>
-<channel id="608"><display-name>Kia Arena</display-name><url>https://sky.co.nz</url></channel>
-<channel id="607"><display-name>John Cain Arena</display-name><url>https://sky.co.nz</url></channel>
-<channel id="606"><display-name>Margaret Court Arena</display-name><url>https://sky.co.nz</url></channel>
-<channel id="605"><display-name>Rod Laver Arena</display-name><url>https://sky.co.nz</url></channel>
-<channel id="601"><display-name>SKY Sport Popup 2</display-name><url>https://sky.co.nz</url></channel>
-<channel id="600"><display-name>SKY Sport Popup 1</display-name><url>https://sky.co.nz</url></channel>
-<channel id="SkyOpen.nz@Plus1"><display-name>Prime +1</display-name><icon src="https://i.imgur.com/eYyYojh.png"/><url>https://sky.co.nz</url></channel>
-<channel id="Bravo.nz@Plus1"><display-name>BRAVO +1</display-name><icon src="https://i.imgur.com/hphQ2kw.png"/><url>https://sky.co.nz</url></channel>
-<channel id="eden.nz@Plus1"><display-name>eden +1</display-name><icon src="https://i.imgur.com/Aynl8eW.png"/><url>https://sky.co.nz</url></channel>
-<channel id="TVNZDUKE.nz@Plus1"><display-name>DUKE +1</display-name><icon src="https://i.imgur.com/tJf9DEI.png"/><url>https://sky.co.nz</url></channel>
-<channel id="Three.nz@Plus1"><display-name>Three +1</display-name><icon src="https://i.imgur.com/kc57D8T.png"/><url>https://sky.co.nz</url></channel>
-<channel id="TVNZ2.nz@Plus1"><display-name>TV2 +1</display-name><icon src="https://i.imgur.com/9sV4dbH.png"/><url>https://sky.co.nz</url></channel>
-<channel id="TVNZ1.nz@Plus1"><display-name>One +1</display-name><icon src="https://i.imgur.com/Nx76HUE.png"/><url>https://sky.co.nz</url></channel>
+<channel id="TVNZ2.nz@SD"><display-name>TV2</display-name><icon src="https://i.imgur.com/9sV4dbH.png"/><url>https://sky.co.nz</url></channel>
+<channel id="SkyOpen.nz@SD"><display-name>Prime TV</display-name><icon src="https://i.imgur.com/eYyYojh.png"/><url>https://sky.co.nz</url></channel>
+<channel id="JONES.nz@SD"><display-name>JONES!</display-name><icon src="https://i.imgur.com/XxUqdxq.png"/><url>https://sky.co.nz</url></channel>
+<channel id="Living.nz@SD"><display-name>Living Channel</display-name><icon src="https://i.imgur.com/6iMo6kt.png"/><url>https://sky.co.nz</url></channel>
+<channel id="Rialto.nz@SD"><display-name>Rialto</display-name><icon src="https://i.imgur.com/wGw0sGu.png"/><url>https://sky.co.nz</url></channel>
+<channel id="CNNInternational.us@AsiaPacific"><display-name>CNN International</display-name><icon src="https://dtil.tmsimg.com/assets/s157679_ld_h15_aa.png"/><url>https://sky.co.nz</url></channel>
+<channel id="ParliamentTV.nz@SD"><display-name>Parliament TV</display-name><icon src="https://i.imgur.com/2aHW4q7.png"/><url>https://sky.co.nz</url></channel>
+<channel id="SkyMoviesFamily.nz@SD"><display-name>SKY Movies Family</display-name><icon src="https://i.imgur.com/OJET50R.png"/><url>https://sky.co.nz</url></channel>
+<channel id="SkyNewsNewZealand.nz@SD"><display-name>SKY NEWS</display-name><icon src="https://i.imgur.com/jP0rB8j.png"/><url>https://sky.co.nz</url></channel>
+<channel id="FaceTV.nz@SD"><display-name>Face TV</display-name><icon src="https://i.imgur.com/IuwYnRv.png"/><url>https://sky.co.nz</url></channel>
+<channel id="TLC.nz@SD"><display-name>TLC</display-name><icon src="https://i.postimg.cc/NMnt7mfy/tlc.png"/><url>https://sky.co.nz</url></channel>
+<channel id="SkyMoviesCollection.nz@SD"><display-name>SKY Movies Collection</display-name><icon src="https://i.imgur.com/Q0Io9V3.png"/><url>https://sky.co.nz</url></channel>
+<channel id="TeReo.nz@SD"><display-name>Te Reo</display-name><icon src="https://i.imgur.com/3CNvYUN.png"/><url>https://sky.co.nz</url></channel>
+<channel id="CountryTV.nz@SD"><display-name>Country TV</display-name><icon src="https://i.imgur.com/ypHcHps.png"/><url>https://sky.co.nz</url></channel>
+<channel id="SkyMoviesClassics.nz@SD"><display-name>SKY Movies Classic</display-name><url>https://sky.co.nz</url></channel>
+<channel id="AnimalPlanet.au@SD"><display-name>Animal Planet</display-name><icon src="https://i.postimg.cc/ZKbSH9KK/animalplanet.png"/><url>https://sky.co.nz</url></channel>
+<channel id="DiscoveryTurbo.au@NewZealand"><display-name>Discovery Turbo</display-name><icon src="https://i.imgur.com/osCVMop.png"/><url>https://sky.co.nz</url></channel>
+<channel id="BBCUKTV.au@NewZealand"><display-name>UKTV</display-name><icon src="https://i.imgur.com/rI56GEQ.png"/><url>https://sky.co.nz</url></channel>
+<channel id="MTV.nz@SD"><display-name>MTV</display-name><icon src="https://i.postimg.cc/4d3rmyGW/mtv.png"/><url>https://sky.co.nz</url></channel>
+<channel id="SkyMoviesGreats.nz@SD"><display-name>SKY Movies Greats</display-name><icon src="https://i.imgur.com/v8EVEZX.png"/><url>https://sky.co.nz</url></channel>
+<channel id="BBCEarth.uk@NewZealand"><display-name>BBC Earth</display-name><icon src="https://i.imgur.com/nGSsUd4.png"/><url>https://sky.co.nz</url></channel>
+<channel id="History.au@SD"><display-name>History</display-name><icon src="https://i.postimg.cc/4dr0YQXw/history.png"/><url>https://sky.co.nz</url></channel>
+<channel id="SkyMoviesAction.nz@SD"><display-name>SKY Movies Action</display-name><icon src="https://i.imgur.com/SvL4uca.png"/><url>https://sky.co.nz</url></channel>
+<channel id="NationalGeographic.au@SD"><display-name>National Geographic</display-name><icon src="https://i.postimg.cc/FsPGHpzX/nationalgeographic.png"/><url>https://sky.co.nz</url></channel>
+<channel id="CrimePlusInvestigation.au@SD"><display-name>Crime + Investigation</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"/><url>https://sky.co.nz</url></channel>
+<channel id="eden.nz@SD"><display-name>eden</display-name><icon src="https://i.imgur.com/Aynl8eW.png"/><url>https://sky.co.nz</url></channel>
 <channel id="CGTN.cn@SD"><display-name>CGTN</display-name><icon src="https://i.postimg.cc/Kvm5YTmb/cgtn.png"/><url>https://sky.co.nz</url></channel>
 <channel id="CGTNDocumentary.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.imgur.com/JHv0WxM.png"/><url>https://sky.co.nz</url></channel>
 <channel id="UniversalTV.nz@SD"><display-name>UniversalTV</display-name><icon src="https://i.postimg.cc/XJJwZGv1/universaltv.png"/><url>https://sky.co.nz</url></channel>
@@ -47,67 +48,66 @@
 <channel id="AlJazeera.qa@English"><display-name>Al Jazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://sky.co.nz</url></channel>
 <channel id="BBCNews.uk@AsiaPacific"><display-name>BBC World News</display-name><icon src="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png"/><url>https://sky.co.nz</url></channel>
 <channel id="FoxNewsChannel.us@SD"><display-name>Fox News</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png"/><url>https://sky.co.nz</url></channel>
-<channel id="CNNInternational.us@AsiaPacific"><display-name>CNN International</display-name><icon src="https://dtil.tmsimg.com/assets/s157679_ld_h15_aa.png"/><url>https://sky.co.nz</url></channel>
-<channel id="ParliamentTV.nz@SD"><display-name>Parliament TV</display-name><icon src="https://i.imgur.com/2aHW4q7.png"/><url>https://sky.co.nz</url></channel>
-<channel id="SkyNewsNewZealand.nz@SD"><display-name>SKY NEWS</display-name><icon src="https://i.imgur.com/jP0rB8j.png"/><url>https://sky.co.nz</url></channel>
-<channel id="FaceTV.nz@SD"><display-name>Face TV</display-name><icon src="https://i.imgur.com/IuwYnRv.png"/><url>https://sky.co.nz</url></channel>
-<channel id="TeReo.nz@SD"><display-name>Te Reo</display-name><icon src="https://i.imgur.com/3CNvYUN.png"/><url>https://sky.co.nz</url></channel>
-<channel id="CountryTV.nz@SD"><display-name>Country TV</display-name><icon src="https://i.imgur.com/ypHcHps.png"/><url>https://sky.co.nz</url></channel>
-<channel id="AnimalPlanet.au@SD"><display-name>Animal Planet</display-name><icon src="https://i.postimg.cc/ZKbSH9KK/animalplanet.png"/><url>https://sky.co.nz</url></channel>
-<channel id="DiscoveryTurbo.au@NewZealand"><display-name>Discovery Turbo</display-name><icon src="https://i.imgur.com/osCVMop.png"/><url>https://sky.co.nz</url></channel>
-<channel id="BBCEarth.uk@NewZealand"><display-name>BBC Earth</display-name><icon src="https://i.imgur.com/nGSsUd4.png"/><url>https://sky.co.nz</url></channel>
-<channel id="History.au@SD"><display-name>History</display-name><icon src="https://i.postimg.cc/4dr0YQXw/history.png"/><url>https://sky.co.nz</url></channel>
-<channel id="NationalGeographic.au@SD"><display-name>National Geographic</display-name><icon src="https://i.postimg.cc/FsPGHpzX/nationalgeographic.png"/><url>https://sky.co.nz</url></channel>
-<channel id="CrimePlusInvestigation.au@SD"><display-name>Crime + Investigation</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"/><url>https://sky.co.nz</url></channel>
+<channel id="SkyMoviesComedy.nz@SD"><display-name>SKY Movies Comedy</display-name><icon src="https://i.imgur.com/9osPAY0.png"/><url>https://sky.co.nz</url></channel>
 <channel id="DiscoveryChannel.nz@SD"><display-name>Discovery Channel</display-name><icon src="https://i.postimg.cc/T2QFcf7r/discoverychannel.png"/><url>https://sky.co.nz</url></channel>
 <channel id="SkyArena.nz@SD"><display-name>SKY Arena</display-name><icon src="https://i.imgur.com/k9S9ad5.png"/><url>https://sky.co.nz</url></channel>
+<channel id="SkyMoviesPremiere.nz@SD"><display-name>SKY Movies Premiere</display-name><icon src="https://i.imgur.com/ia6m44Q.png"/><url>https://sky.co.nz</url></channel>
 <channel id="TABTrackside2.nz@SD"><display-name>TAB Trackside 2</display-name><icon src="https://i.imgur.com/MtbhKER.png"/><url>https://sky.co.nz</url></channel>
 <channel id="TABTrackside1.nz@SD"><display-name>TAB Trackside 1</display-name><icon src="https://i.imgur.com/dIb8zJa.png"/><url>https://sky.co.nz</url></channel>
+<channel id="Three.nz@SD"><display-name>Three</display-name><icon src="https://i.imgur.com/kc57D8T.png"/><url>https://sky.co.nz</url></channel>
+<channel id="Vibe.nz@SD"><display-name>Vibe</display-name><icon src="https://i.imgur.com/Dk3Zhdg.png"/><url>https://sky.co.nz</url></channel>
+<channel id="Bravo.nz@SD"><display-name>BRAVO</display-name><icon src="https://i.imgur.com/hphQ2kw.png"/><url>https://sky.co.nz</url></channel>
+<channel id="TheShoppingChannel.nz@SD"><display-name>The Shopping Channel</display-name><icon src="https://i.imgur.com/JNbVKm6.png"/><url>https://sky.co.nz</url></channel>
 <channel id="ESPN2.au@SD"><display-name>ESPN2</display-name><icon src="https://i.postimg.cc/Wb1GMPCq/espn2.png"/><url>https://sky.co.nz</url></channel>
 <channel id="ESPN.au@SD"><display-name>ESPN</display-name><icon src="https://i.postimg.cc/tR5dZgSH/espn.png"/><url>https://sky.co.nz</url></channel>
+<channel id="Rush.nz@SD"><display-name>Rush</display-name><icon src="https://i.imgur.com/q7kj4jo.png"/><url>https://sky.co.nz</url></channel>
 <channel id="SkySport9.nz@SD"><display-name>SKY Sport 9</display-name><icon src="https://i.imgur.com/9fLRHSg.png"/><url>https://sky.co.nz</url></channel>
 <channel id="SkySport8.nz@SD"><display-name>SKY Sport 8</display-name><icon src="https://i.imgur.com/8YjqlRv.png"/><url>https://sky.co.nz</url></channel>
+<channel id="ComedyCentral.au@SD"><display-name>Comedy Central</display-name><icon src="https://i.postimg.cc/Dysd5c51/comedycentral.png"/><url>https://sky.co.nz</url></channel>
+<channel id="TVNZDUKE.nz@SD"><display-name>DUKE</display-name><icon src="https://i.imgur.com/tJf9DEI.png"/><url>https://sky.co.nz</url></channel>
 <channel id="SkySport7.nz@SD"><display-name>SKY Sport 7</display-name><icon src="https://i.imgur.com/iuTNWh4.png"/><url>https://sky.co.nz</url></channel>
 <channel id="SkySport6.nz@SD"><display-name>SKY Sport 6</display-name><icon src="https://i.imgur.com/nyjD1dU.png"/><url>https://sky.co.nz</url></channel>
+<channel id="MTVHits.nz@SD"><display-name>MTV Hits</display-name><icon src="https://i.postimg.cc/Gp3cxcry/mtvhits.png"/><url>https://sky.co.nz</url></channel>
 <channel id="SkySport5.nz@SD"><display-name>SKY Sport 5</display-name><icon src="https://i.imgur.com/xgpKcYh.png"/><url>https://sky.co.nz</url></channel>
 <channel id="SkySport4.nz@SD"><display-name>SKY Sport 4</display-name><icon src="https://i.imgur.com/KUXs7SQ.png"/><url>https://sky.co.nz</url></channel>
+<channel id="Sky5.nz@SD"><display-name>Sky 5</display-name><icon src="https://i.imgur.com/4JWJzYP.png"/><url>https://sky.co.nz</url></channel>
+<channel id="SoHo.nz@SD"><display-name>SoHo</display-name><icon src="https://i.imgur.com/GYdbNs7.png"/><url>https://sky.co.nz</url></channel>
+<channel id="HGTV.nz@SD"><display-name>HGTV</display-name><icon src="https://i.postimg.cc/P5Qn09dH/hgtv.png"/><url>https://sky.co.nz</url></channel>
 <channel id="SkySport3.nz@SD"><display-name>SKY Sport 3</display-name><icon src="https://i.imgur.com/XYp3Ua3.png"/><url>https://sky.co.nz</url></channel>
 <channel id="SkySport2.nz@SD"><display-name>SKY Sport 2</display-name><icon src="https://i.imgur.com/cu8yB69.png"/><url>https://sky.co.nz</url></channel>
-<channel id="SkySport1.nz@SD"><display-name>SKY Sport 1</display-name><icon src="https://i.imgur.com/ThJHEuN.png"/><url>https://sky.co.nz</url></channel>
 <channel id="SkySportSelect.nz@SD"><display-name>SKY Sport Select</display-name><icon src="https://i.imgur.com/6x2anTA.png"/><url>https://sky.co.nz</url></channel>
 <channel id="SkyBoxOffice043.nz@SD"><display-name>SKY Box Office 043</display-name><icon src="https://i.imgur.com/bQktnAn.png"/><url>https://sky.co.nz</url></channel>
 <channel id="SkyBoxOffice042.nz@SD"><display-name>SKY Box Office 042</display-name><icon src="https://i.imgur.com/bQktnAn.png"/><url>https://sky.co.nz</url></channel>
 <channel id="SkyBoxOffice041.nz@SD"><display-name>SKY Box Office 041</display-name><icon src="https://i.imgur.com/lyMOw4J.png"/><url>https://sky.co.nz</url></channel>
 <channel id="SkyBoxOffice040.nz@SD"><display-name>SKY Box Office</display-name><icon src="https://i.imgur.com/O5xidYj.png"/><url>https://sky.co.nz</url></channel>
-<channel id="Rialto.nz@SD"><display-name>Rialto</display-name><icon src="https://i.imgur.com/wGw0sGu.png"/><url>https://sky.co.nz</url></channel>
-<channel id="SkyMoviesFamily.nz@SD"><display-name>SKY Movies Family</display-name><icon src="https://i.imgur.com/OJET50R.png"/><url>https://sky.co.nz</url></channel>
-<channel id="SkyMoviesCollection.nz@SD"><display-name>SKY Movies Collection</display-name><icon src="https://i.imgur.com/Q0Io9V3.png"/><url>https://sky.co.nz</url></channel>
-<channel id="SkyMoviesClassics.nz@SD"><display-name>SKY Movies Classic</display-name><url>https://sky.co.nz</url></channel>
-<channel id="SkyMoviesGreats.nz@SD"><display-name>SKY Movies Greats</display-name><icon src="https://i.imgur.com/v8EVEZX.png"/><url>https://sky.co.nz</url></channel>
-<channel id="SkyMoviesAction.nz@SD"><display-name>SKY Movies Action</display-name><icon src="https://i.imgur.com/SvL4uca.png"/><url>https://sky.co.nz</url></channel>
-<channel id="SkyMoviesComedy.nz@SD"><display-name>SKY Movies Comedy</display-name><icon src="https://i.imgur.com/9osPAY0.png"/><url>https://sky.co.nz</url></channel>
-<channel id="SkyMoviesPremiere.nz@SD"><display-name>SKY Movies Premiere</display-name><icon src="https://i.imgur.com/ia6m44Q.png"/><url>https://sky.co.nz</url></channel>
-<channel id="TheShoppingChannel.nz@SD"><display-name>The Shopping Channel</display-name><icon src="https://i.imgur.com/JNbVKm6.png"/><url>https://sky.co.nz</url></channel>
-<channel id="Rush.nz@SD"><display-name>Rush</display-name><icon src="https://i.imgur.com/q7kj4jo.png"/><url>https://sky.co.nz</url></channel>
-<channel id="TVNZDUKE.nz@SD"><display-name>DUKE</display-name><icon src="https://i.imgur.com/tJf9DEI.png"/><url>https://sky.co.nz</url></channel>
-<channel id="MTVHits.nz@SD"><display-name>MTV Hits</display-name><icon src="https://i.postimg.cc/Gp3cxcry/mtvhits.png"/><url>https://sky.co.nz</url></channel>
-<channel id="HGTV.nz@SD"><display-name>HGTV</display-name><icon src="https://i.postimg.cc/P5Qn09dH/hgtv.png"/><url>https://sky.co.nz</url></channel>
 <channel id="SkyArts.nz@SD"><display-name>SKY ARTS</display-name><icon src="https://i.imgur.com/CkcpL11.png"/><url>https://sky.co.nz</url></channel>
+<channel id="SkySport1.nz@SD"><display-name>SKY Sport 1</display-name><icon src="https://i.imgur.com/ThJHEuN.png"/><url>https://sky.co.nz</url></channel>
+<channel id="SkyBoxSets.nz@SD"><display-name>SKY BOX SETS</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/a/a0/SkyBoxSets.png"/><url>https://sky.co.nz</url></channel>
 <channel id="WhakaataMaori.nz@SD"><display-name>Maori Television</display-name><icon src="https://i.imgur.com/oT3PrHZ.png"/><url>https://sky.co.nz</url></channel>
 <channel id="InvestigationDiscovery.au@SD"><display-name>Investigation Discovery</display-name><icon src="https://i.postimg.cc/bvqpJ8md/investigationdiscovery.png"/><url>https://sky.co.nz</url></channel>
-<channel id="Living.nz@SD"><display-name>Living Channel</display-name><icon src="https://i.imgur.com/6iMo6kt.png"/><url>https://sky.co.nz</url></channel>
-<channel id="TLC.nz@SD"><display-name>TLC</display-name><icon src="https://i.postimg.cc/NMnt7mfy/tlc.png"/><url>https://sky.co.nz</url></channel>
-<channel id="MTV.nz@SD"><display-name>MTV</display-name><icon src="https://i.postimg.cc/4d3rmyGW/mtv.png"/><url>https://sky.co.nz</url></channel>
-<channel id="eden.nz@SD"><display-name>eden</display-name><icon src="https://i.imgur.com/Aynl8eW.png"/><url>https://sky.co.nz</url></channel>
-<channel id="Bravo.nz@SD"><display-name>BRAVO</display-name><icon src="https://i.imgur.com/hphQ2kw.png"/><url>https://sky.co.nz</url></channel>
-<channel id="ComedyCentral.au@SD"><display-name>Comedy Central</display-name><icon src="https://i.postimg.cc/Dysd5c51/comedycentral.png"/><url>https://sky.co.nz</url></channel>
-<channel id="SoHo.nz@SD"><display-name>SoHo</display-name><icon src="https://i.imgur.com/GYdbNs7.png"/><url>https://sky.co.nz</url></channel>
-<channel id="SkyBoxSets.nz@SD"><display-name>SKY BOX SETS</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/a/a0/SkyBoxSets.png"/><url>https://sky.co.nz</url></channel>
-<channel id="JONES.nz@SD"><display-name>JONES!</display-name><icon src="https://i.imgur.com/XxUqdxq.png"/><url>https://sky.co.nz</url></channel>
-<channel id="BBCUKTV.au@NewZealand"><display-name>UKTV</display-name><icon src="https://i.imgur.com/rI56GEQ.png"/><url>https://sky.co.nz</url></channel>
-<channel id="Vibe.nz@SD"><display-name>Vibe</display-name><icon src="https://i.imgur.com/Dk3Zhdg.png"/><url>https://sky.co.nz</url></channel>
-<channel id="Sky5.nz@SD"><display-name>Sky 5</display-name><icon src="https://i.imgur.com/4JWJzYP.png"/><url>https://sky.co.nz</url></channel>
-<channel id="SkyOpen.nz@SD"><display-name>Prime TV</display-name><icon src="https://i.imgur.com/eYyYojh.png"/><url>https://sky.co.nz</url></channel>
-<channel id="Three.nz@SD"><display-name>Three</display-name><icon src="https://i.imgur.com/kc57D8T.png"/><url>https://sky.co.nz</url></channel>
-<channel id="TVNZ2.nz@SD"><display-name>TV2</display-name><icon src="https://i.imgur.com/9sV4dbH.png"/><url>https://sky.co.nz</url></channel>
+<channel id="TVNZ1.nz@Plus1"><display-name>One +1</display-name><icon src="https://i.imgur.com/Nx76HUE.png"/><url>https://sky.co.nz</url></channel>
+<channel id="620"><display-name>Court 17</display-name><url>https://sky.co.nz</url></channel>
+<channel id="616"><display-name>Court 13</display-name><url>https://sky.co.nz</url></channel>
+<channel id="613"><display-name>Court 7</display-name><url>https://sky.co.nz</url></channel>
+<channel id="607"><display-name>John Cain Arena</display-name><url>https://sky.co.nz</url></channel>
+<channel id="600"><display-name>SKY Sport Popup 1</display-name><url>https://sky.co.nz</url></channel>
+<channel id="eden.nz@Plus1"><display-name>eden +1</display-name><icon src="https://i.imgur.com/Aynl8eW.png"/><url>https://sky.co.nz</url></channel>
+<channel id="TVNZ2.nz@Plus1"><display-name>TV2 +1</display-name><icon src="https://i.imgur.com/9sV4dbH.png"/><url>https://sky.co.nz</url></channel>
+<channel id="615"><display-name>Court 12</display-name><url>https://sky.co.nz</url></channel>
+<channel id="608"><display-name>Kia Arena</display-name><url>https://sky.co.nz</url></channel>
+<channel id="Bravo.nz@Plus1"><display-name>BRAVO +1</display-name><icon src="https://i.imgur.com/hphQ2kw.png"/><url>https://sky.co.nz</url></channel>
+<channel id="618"><display-name>Court 15</display-name><url>https://sky.co.nz</url></channel>
+<channel id="TVNZDUKE.nz@Plus1"><display-name>DUKE +1</display-name><icon src="https://i.imgur.com/tJf9DEI.png"/><url>https://sky.co.nz</url></channel>
+<channel id="601"><display-name>SKY Sport Popup 2</display-name><url>https://sky.co.nz</url></channel>
+<channel id="619"><display-name>Court 16</display-name><url>https://sky.co.nz</url></channel>
+<channel id="614"><display-name>Court 8</display-name><url>https://sky.co.nz</url></channel>
+<channel id="612"><display-name>Court 6</display-name><url>https://sky.co.nz</url></channel>
+<channel id="617"><display-name>Court 14</display-name><url>https://sky.co.nz</url></channel>
+<channel id="610"><display-name>Court 3</display-name><url>https://sky.co.nz</url></channel>
+<channel id="606"><display-name>Margaret Court Arena</display-name><url>https://sky.co.nz</url></channel>
+<channel id="SkyOpen.nz@Plus1"><display-name>Prime +1</display-name><icon src="https://i.imgur.com/eYyYojh.png"/><url>https://sky.co.nz</url></channel>
+<channel id="Three.nz@Plus1"><display-name>Three +1</display-name><icon src="https://i.imgur.com/kc57D8T.png"/><url>https://sky.co.nz</url></channel>
+<channel id="605"><display-name>Rod Laver Arena</display-name><url>https://sky.co.nz</url></channel>
+<channel id="611"><display-name>Court 5</display-name><url>https://sky.co.nz</url></channel>
+<channel id="609"><display-name>1573 Arena</display-name><url>https://sky.co.nz</url></channel>
 </tv>
