@@ -35,6 +35,9 @@ jobs:
       - name: Grab UNIFI
         run: npm run grab -- --site=playtv.unifi.com.my --output=unifi.xml
 
+      - name: Grab SKY
+        run: npm run grab -- --site=sky.com --output=sky.xml
+
       - name: Commit and Push to Repository
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -42,5 +45,6 @@ jobs:
           git add visionplus.xml vidio.xml indihome.xml skynz.xml unifi.xml
           git commit -m "Update EPG: $(date)" || exit 0
           git push
+
 
 
