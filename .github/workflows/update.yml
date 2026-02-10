@@ -42,9 +42,10 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add visionplus.xml vidio.xml indihome.xml skynz.xml unifi.xml
+          git add visionplus.xml vidio.xml indihome.xml skynz.xml unifi.xml sky.xml
           git commit -m "Update EPG: $(date)" || exit 0
           git push
+
 
 
 
