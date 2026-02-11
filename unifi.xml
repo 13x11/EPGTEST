@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260210">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260211">
 <channel id="Inspirasi.my@SD"><display-name>Inspirasi</display-name><url>https://playtv.unifi.com.my</url></channel>
-<channel id="64822719"><display-name>TVS</display-name><url>https://playtv.unifi.com.my</url></channel>
+<channel id="NickJrAsia.sg@SD"><display-name>Nick Jr.</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/512px-Nick_Jr._logo_2023_(outline).svg.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="59953839"><display-name>ONE</display-name><url>https://playtv.unifi.com.my</url></channel>
 <channel id="59924306"><display-name>Moonbug</display-name><url>https://playtv.unifi.com.my</url></channel>
 <channel id="59922231"><display-name>beIN SPORTS 2</display-name><url>https://playtv.unifi.com.my</url></channel>
@@ -64,5 +64,5 @@
 <channel id="TV3.my@SD"><display-name>TV3</display-name><icon src="https://i.imgur.com/bHcZgIo.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="TV1.my@SD"><display-name>TV1</display-name><icon src="https://i.imgur.com/wSyPmiY.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="CBeebiesAsia.uk@SD"><display-name>CBeebies HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png"/><url>https://playtv.unifi.com.my</url></channel>
-<channel id="NickJrAsia.sg@SD"><display-name>Nick Jr.</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/512px-Nick_Jr._logo_2023_(outline).svg.png"/><url>https://playtv.unifi.com.my</url></channel>
+<channel id="64822719"><display-name>TVS</display-name><url>https://playtv.unifi.com.my</url></channel>
 </tv>
