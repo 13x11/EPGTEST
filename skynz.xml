@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260214">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260215">
 <channel id="TVNZ1.nz@SD"><display-name>One</display-name><icon src="https://i.imgur.com/Nx76HUE.png"/><url>https://sky.co.nz</url></channel>
-<channel id="620"><display-name>Court 17</display-name><url>https://sky.co.nz</url></channel>
-<channel id="619"><display-name>Court 16</display-name><url>https://sky.co.nz</url></channel>
-<channel id="618"><display-name>Court 15</display-name><url>https://sky.co.nz</url></channel>
-<channel id="617"><display-name>Court 14</display-name><url>https://sky.co.nz</url></channel>
-<channel id="616"><display-name>Court 13</display-name><url>https://sky.co.nz</url></channel>
+<channel id="TVNZ2.nz@SD"><display-name>TV2</display-name><icon src="https://i.imgur.com/9sV4dbH.png"/><url>https://sky.co.nz</url></channel>
+<channel id="SkyOpen.nz@SD"><display-name>Prime TV</display-name><icon src="https://i.imgur.com/eYyYojh.png"/><url>https://sky.co.nz</url></channel>
+<channel id="Three.nz@SD"><display-name>Three</display-name><icon src="https://i.imgur.com/kc57D8T.png"/><url>https://sky.co.nz</url></channel>
+<channel id="Vibe.nz@SD"><display-name>Vibe</display-name><icon src="https://i.imgur.com/Dk3Zhdg.png"/><url>https://sky.co.nz</url></channel>
+<channel id="Sky5.nz@SD"><display-name>Sky 5</display-name><icon src="https://i.imgur.com/4JWJzYP.png"/><url>https://sky.co.nz</url></channel>
 <channel id="615"><display-name>Court 12</display-name><url>https://sky.co.nz</url></channel>
 <channel id="614"><display-name>Court 8</display-name><url>https://sky.co.nz</url></channel>
 <channel id="613"><display-name>Court 7</display-name><url>https://sky.co.nz</url></channel>
@@ -105,9 +105,9 @@
 <channel id="SkyBoxSets.nz@SD"><display-name>SKY BOX SETS</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/a/a0/SkyBoxSets.png"/><url>https://sky.co.nz</url></channel>
 <channel id="JONES.nz@SD"><display-name>JONES!</display-name><icon src="https://i.imgur.com/XxUqdxq.png"/><url>https://sky.co.nz</url></channel>
 <channel id="BBCUKTV.au@NewZealand"><display-name>UKTV</display-name><icon src="https://i.imgur.com/rI56GEQ.png"/><url>https://sky.co.nz</url></channel>
-<channel id="Vibe.nz@SD"><display-name>Vibe</display-name><icon src="https://i.imgur.com/Dk3Zhdg.png"/><url>https://sky.co.nz</url></channel>
-<channel id="Sky5.nz@SD"><display-name>Sky 5</display-name><icon src="https://i.imgur.com/4JWJzYP.png"/><url>https://sky.co.nz</url></channel>
-<channel id="SkyOpen.nz@SD"><display-name>Prime TV</display-name><icon src="https://i.imgur.com/eYyYojh.png"/><url>https://sky.co.nz</url></channel>
-<channel id="Three.nz@SD"><display-name>Three</display-name><icon src="https://i.imgur.com/kc57D8T.png"/><url>https://sky.co.nz</url></channel>
-<channel id="TVNZ2.nz@SD"><display-name>TV2</display-name><icon src="https://i.imgur.com/9sV4dbH.png"/><url>https://sky.co.nz</url></channel>
+<channel id="619"><display-name>Court 16</display-name><url>https://sky.co.nz</url></channel>
+<channel id="618"><display-name>Court 15</display-name><url>https://sky.co.nz</url></channel>
+<channel id="617"><display-name>Court 14</display-name><url>https://sky.co.nz</url></channel>
+<channel id="620"><display-name>Court 17</display-name><url>https://sky.co.nz</url></channel>
+<channel id="616"><display-name>Court 13</display-name><url>https://sky.co.nz</url></channel>
 </tv>
