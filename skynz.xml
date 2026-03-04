@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260303">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260304">
 <channel id="TVNZ1.nz@SD"><display-name>One</display-name><icon src="https://i.imgur.com/Nx76HUE.png"/><url>https://sky.co.nz</url></channel>
 <channel id="620"><display-name>Court 17</display-name><url>https://sky.co.nz</url></channel>
 <channel id="619"><display-name>Court 16</display-name><url>https://sky.co.nz</url></channel>
@@ -35,9 +35,9 @@
 <channel id="DaystarTV.us@SD"><display-name>Daystar TV Network</display-name><icon src="https://i.imgur.com/IjzCv8f.png"/><url>https://sky.co.nz</url></channel>
 <channel id="ShineTV.nz@SD"><display-name>Shine TV</display-name><icon src="https://i.imgur.com/dzoMaJf.png"/><url>https://sky.co.nz</url></channel>
 <channel id="TheFilipinoChannelAsia.us@SD"><display-name>The Filipino Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/512px-The_Filipino_Channel_2011_logo.svg.png"/><url>https://sky.co.nz</url></channel>
-<channel id="StarGold.in@SD"><display-name>Star Gold</display-name><icon src="https://dtil.tmsimg.com/assets/s143815_ld_h15_aa.png"/><url>https://sky.co.nz</url></channel>
+<channel id="StarGold.in@SD"><display-name>Star Gold</display-name><icon src="https://dtil.tmsimg.com/assets/s143815_ld_h15_aa.png?lock=720x540"/><url>https://sky.co.nz</url></channel>
 <channel id="ColorsAsiaPacific.in@SD"><display-name>Colors</display-name><icon src="https://i.imgur.com/mtkxdPg.png"/><url>https://sky.co.nz</url></channel>
-<channel id="StarPlus.in@SD"><display-name>Star Plus Hindi</display-name><icon src="https://dtil.tmsimg.com/assets/s143832_ld_h15_aa.png"/><url>https://sky.co.nz</url></channel>
+<channel id="StarPlus.in@SD"><display-name>Star Plus Hindi</display-name><icon src="https://dtil.tmsimg.com/assets/s143832_ld_h15_aa.png?lock=720x540"/><url>https://sky.co.nz</url></channel>
 <channel id="NickJr.au@SD"><display-name>nick jr.</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/512px-Nick_Jr._logo_2023_(outline).svg.png"/><url>https://sky.co.nz</url></channel>
 <channel id="CBeebies.au@SD"><display-name>CBeebies</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png"/><url>https://sky.co.nz</url></channel>
 <channel id="CartoonNetwork.au@Australia"><display-name>Cartoon Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"/><url>https://sky.co.nz</url></channel>
@@ -45,9 +45,9 @@
 <channel id="NickMusic.au@SD"><display-name>Nick Music</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png"/><url>https://sky.co.nz</url></channel>
 <channel id="CNBCAustralia.au@SD"><display-name>CNBC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg"/><url>https://sky.co.nz</url></channel>
 <channel id="AlJazeera.qa@English"><display-name>Al Jazeera</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png"/><url>https://sky.co.nz</url></channel>
-<channel id="BBCNews.uk@AsiaPacific"><display-name>BBC World News</display-name><icon src="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png"/><url>https://sky.co.nz</url></channel>
+<channel id="BBCNews.uk@AsiaPacific"><display-name>BBC World News</display-name><icon src="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540"/><url>https://sky.co.nz</url></channel>
 <channel id="FoxNewsChannel.us@SD"><display-name>Fox News</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png"/><url>https://sky.co.nz</url></channel>
-<channel id="CNNInternational.us@AsiaPacific"><display-name>CNN International</display-name><icon src="https://dtil.tmsimg.com/assets/s157679_ld_h15_aa.png"/><url>https://sky.co.nz</url></channel>
+<channel id="CNNInternational.us@AsiaPacific"><display-name>CNN International</display-name><icon src="https://dtil.tmsimg.com/assets/s157679_ld_h15_aa.png?lock=720x540"/><url>https://sky.co.nz</url></channel>
 <channel id="ParliamentTV.nz@SD"><display-name>Parliament TV</display-name><icon src="https://i.imgur.com/2aHW4q7.png"/><url>https://sky.co.nz</url></channel>
 <channel id="SkyNewsNewZealand.nz@SD"><display-name>SKY NEWS</display-name><icon src="https://i.imgur.com/jP0rB8j.png"/><url>https://sky.co.nz</url></channel>
 <channel id="FaceTV.nz@SD"><display-name>Face TV</display-name><icon src="https://i.imgur.com/IuwYnRv.png"/><url>https://sky.co.nz</url></channel>
