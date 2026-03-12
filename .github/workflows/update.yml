@@ -35,6 +35,9 @@ jobs:
       - name: Grab UNIFI
         run: npm run grab -- --site=playtv.unifi.com.my --output=unifi.xml
 
+       - name: Grab STARHUB
+        run: npm run grab -- --site=starhubtvplus.com --output=starhub.xml
+
       - name: Grab SKY
         run: npm run grab -- --site=sky.com --output=sky.xml
 
@@ -42,9 +45,10 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add visionplus.xml vidio.xml indihome.xml skynz.xml unifi.xml sky.xml
+          git add visionplus.xml vidio.xml indihome.xml skynz.xml unifi.xml sky.xml starhub.xml
           git commit -m "Update EPG: $(date)" || exit 0
           git push
+
 
 
 
