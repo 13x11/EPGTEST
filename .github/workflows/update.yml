@@ -32,9 +32,6 @@ jobs:
       - name: Grab UNIFI
         run: npm run grab -- --site=playtv.unifi.com.my --output=unifi.xml
 
-      - name: Grab STARHUB
-        run: npm run grab -- --site=starhubtvplus.com --output=starhub.xml
-
       - name: Commit and Push to Repository
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
