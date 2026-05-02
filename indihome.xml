@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260501">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260502">
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://indihometv.com</url></channel>
 <channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/960px-TVRIWorld.png"/><url>https://indihometv.com</url></channel>
 <channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540"/><url>https://indihometv.com</url></channel>
@@ -53,7 +53,7 @@
 <channel id="SindoNewsTV.id@SD"><display-name>SINDO News TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SindoNewsTV_2023.png/960px-SindoNewsTV_2023.png"/><url>https://indihometv.com</url></channel>
 <channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://indihometv.com</url></channel>
 <channel id="MentariTV.id@SD"><display-name>Mentari TV</display-name><icon src="https://i.imgur.com/QkTgy1M.png"/><url>https://indihometv.com</url></channel>
-<channel id="MAXStream.id@SD"><display-name>Maxstream</display-name><icon src="https://maxstream.tv/static/images/MAXstream_Logo_new.webp"/><url>https://indihometv.com</url></channel>
+<channel id="MAXStream.id@SD"><display-name>Maxstream</display-name><icon src="https://images.maxstream.tv/sites/default/files/entry/0_ixad1kw8/landscape_carousel_xxhdpi.webp"/><url>https://indihometv.com</url></channel>
 <channel id="LoveNature.ca@SD"><display-name>Love Nature</display-name><icon src="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"/><url>https://indihometv.com</url></channel>
 <channel id="LifetimeAsia.us@SD"><display-name>Lifetime</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="KPlus.sg@SD"><display-name>Kplus</display-name><icon src="https://i.imgur.com/RbS0q71.png"/><url>https://indihometv.com</url></channel>
