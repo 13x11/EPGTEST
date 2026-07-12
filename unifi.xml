@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260711">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260712">
 <channel id="Inspirasi.my@SD"><display-name>Inspirasi</display-name><url>https://playtv.unifi.com.my</url></channel>
 <channel id="NickJrAsia.sg@SD"><display-name>Nick Jr.</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="TV1.my@SD"><display-name>TV1</display-name><icon src="https://i.imgur.com/wSyPmiY.png"/><url>https://playtv.unifi.com.my</url></channel>
-<channel id="CBeebiesAsia.uk@SD"><display-name>CBeebies HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png"/><url>https://playtv.unifi.com.my</url></channel>
-<channel id="59922231"><display-name>beIN SPORTS 2</display-name><url>https://playtv.unifi.com.my</url></channel>
+<channel id="CNA.sg@SD"><display-name>CNA</display-name><icon src="https://i.imgur.com/awIDugE.png"/><url>https://playtv.unifi.com.my</url></channel>
+<channel id="59953839"><display-name>ONE</display-name><url>https://playtv.unifi.com.my</url></channel>
+<channel id="TV2.my@SD"><display-name>TV2</display-name><icon src="https://i.imgur.com/LGEdeyJ.png"/><url>https://playtv.unifi.com.my</url></channel>
+<channel id="EuronewsEnglish.fr@SD"><display-name>Euronews</display-name><icon src="https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png"/><url>https://playtv.unifi.com.my</url></channel>
+<channel id="59924306"><display-name>Moonbug</display-name><url>https://playtv.unifi.com.my</url></channel>
 <channel id="beINSports4.qa@MENA"><display-name>beIN SPORTS 4</display-name><icon src="https://i.imgur.com/vwAgJNi.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="ParlimenMalaysia.my@SD"><display-name>Parlimen Malaysia</display-name><url>https://playtv.unifi.com.my</url></channel>
 <channel id="France24.fr@English"><display-name>France 24</display-name><icon src="https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540"/><url>https://playtv.unifi.com.my</url></channel>
@@ -34,8 +37,7 @@
 <channel id="TravelChannelAsia.sg@SD"><display-name>Travel Channel HD</display-name><icon src="https://i.imgur.com/rNfzYP5.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="DW.de@English"><display-name>DW</display-name><icon src="https://i.imgur.com/8MRNFb9.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="LuxeTV.lu@SD"><display-name>Luxe.TV HD</display-name><icon src="https://i.imgur.com/24ehonx.png"/><url>https://playtv.unifi.com.my</url></channel>
-<channel id="EuronewsEnglish.fr@SD"><display-name>Euronews</display-name><icon src="https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png"/><url>https://playtv.unifi.com.my</url></channel>
-<channel id="SETInternational.tw@SD"><display-name>SETI</display-name><icon src="https://i.imgur.com/GOTyx8k.png"/><url>https://playtv.unifi.com.my</url></channel>
+<channel id="59922231"><display-name>beIN SPORTS 2</display-name><url>https://playtv.unifi.com.my</url></channel>
 <channel id="ROCKAction.sg@SD"><display-name>ROCK Action</display-name><icon src="https://i.imgur.com/l6lmlqG.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="CinemaWorld.my@SD"><display-name>CinemaWorld HD</display-name><icon src="https://i.imgur.com/D2qNVZ7.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="SPOTV.kr@SD"><display-name>SPOTV</display-name><icon src="https://i.imgur.com/HaoVsm5.png"/><url>https://playtv.unifi.com.my</url></channel>
@@ -50,7 +52,7 @@
 <channel id="DuniaSinema.my@SD"><display-name>Dunia Sinema HD</display-name><url>https://playtv.unifi.com.my</url></channel>
 <channel id="BBCLifestyle.uk@Asia"><display-name>BBC Lifestyle HD</display-name><icon src="https://i.imgur.com/9mzJJ3y.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="ColorsCineplex.in@SD"><display-name>Colors Cineplex</display-name><icon src="https://dtil.tmsimg.com/assets/s158147_ld_h15_aa.png?lock=720x540"/><url>https://playtv.unifi.com.my</url></channel>
-<channel id="TV2.my@SD"><display-name>TV2</display-name><icon src="https://i.imgur.com/LGEdeyJ.png"/><url>https://playtv.unifi.com.my</url></channel>
+<channel id="SETInternational.tw@SD"><display-name>SETI</display-name><icon src="https://i.imgur.com/GOTyx8k.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="NTV7.my@SD"><display-name>DidikTV KPM</display-name><icon src="https://i.imgur.com/jDWR3xI.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="BoomerangAsia.sg@SD"><display-name>Cartoonito</display-name><icon src="https://i.imgur.com/Sp0zelF.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="ROCKEntertainment.sg@SD"><display-name>ROCK Entertainment</display-name><icon src="https://i.imgur.com/PWzq0aU.png"/><url>https://playtv.unifi.com.my</url></channel>
@@ -58,11 +60,9 @@
 <channel id="TV9.my@SD"><display-name>TV9</display-name><icon src="https://i.imgur.com/Krh1F8d.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="ParamountNetwork.my@SD"><display-name>Paramount Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="8TV.my@SD"><display-name>8TV</display-name><icon src="https://i.imgur.com/Jkx9W88.png"/><url>https://playtv.unifi.com.my</url></channel>
-<channel id="CNA.sg@SD"><display-name>CNA</display-name><icon src="https://i.imgur.com/awIDugE.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="TVAlhijrah.my@SD"><display-name>TV AlHijrah HD</display-name><icon src="https://i.imgur.com/rKJjhv6.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="WarnerTV.ph@SD"><display-name>Warner TV HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="TV3.my@SD"><display-name>TV3</display-name><icon src="https://i.imgur.com/bHcZgIo.png"/><url>https://playtv.unifi.com.my</url></channel>
+<channel id="CBeebiesAsia.uk@SD"><display-name>CBeebies HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="64822719"><display-name>TVS</display-name><url>https://playtv.unifi.com.my</url></channel>
-<channel id="59953839"><display-name>ONE</display-name><url>https://playtv.unifi.com.my</url></channel>
-<channel id="59924306"><display-name>Moonbug</display-name><url>https://playtv.unifi.com.my</url></channel>
 </tv>
