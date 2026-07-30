@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260729">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260730">
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://indihometv.com</url></channel>
 <channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/960px-TVRIWorld.png"/><url>https://indihometv.com</url></channel>
 <channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540"/><url>https://indihometv.com</url></channel>
@@ -77,7 +77,7 @@
 <channel id="HistoryAsia.us@SD"><display-name>History</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="HGTVAsia.us@SD"><display-name>HGTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="GalaxyPremium.id@SD"><display-name>Galaxy Premium</display-name><icon src="https://i.imgur.com/oGKtYYG.png"/><url>https://indihometv.com</url></channel>
-<channel id="Galaxy.id@SD"><display-name>Galaxy</display-name><icon src="https://i.imgur.com/205RLbh.png"/><url>https://indihometv.com</url></channel>
+<channel id="Galaxy.id@SD"><display-name>Galaxy</display-name><icon src="https://i.ibb.co/PG69mfKm/IMG-2469.webp"/><url>https://indihometv.com</url></channel>
 <channel id="France24.fr@English"><display-name>France 24</display-name><icon src="https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540"/><url>https://indihometv.com</url></channel>
 <channel id="Flik.id@SD"><display-name>Flik</display-name><icon src="https://i.postimg.cc/28rxjgwk/1681490401760.png"/><url>https://indihometv.com</url></channel>
 <channel id="FightSports.us@SD"><display-name>Fight Sport</display-name><icon src="https://i.imgur.com/nV55veq.png"/><url>https://indihometv.com</url></channel>
