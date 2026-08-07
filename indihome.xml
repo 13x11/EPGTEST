@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260805">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260807">
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://indihometv.com</url></channel>
 <channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/960px-TVRIWorld.png"/><url>https://indihometv.com</url></channel>
 <channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540"/><url>https://indihometv.com</url></channel>
@@ -8,7 +8,7 @@
 <channel id="ZhejiangSatelliteTV.cn@SD"><display-name>Zhejiang</display-name><icon src="https://i.imgur.com/NFFQNhq.png"/><url>https://indihometv.com</url></channel>
 <channel id="ZeeBioskop.id@SD"><display-name>ZBioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/><url>https://indihometv.com</url></channel>
 <channel id="WarnerTVAsia.us@SD"><display-name>Warner</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png"/><url>https://indihometv.com</url></channel>
-<channel id="AllPlayEnt.id@SD"><display-name>AllPlay Ent</display-name><icon src="https://i.postimg.cc/K8yShFYn/1200px-All-Play-Entertainment.png"/><url>https://indihometv.com</url></channel>
+<channel id="AllPlayEnt.id@SD"><display-name>AllPlay Ent</display-name><url>https://indihometv.com</url></channel>
 <channel id="UChannel.id@SD"><display-name>UChannel</display-name><icon src="https://i.imgur.com/qxkb0cy.png"/><url>https://indihometv.com</url></channel>
 <channel id="TVRI.id@SD"><display-name>TVRI Nasional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="tvOne.id@SD"><display-name>TV One</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/960px-TvOne_2023.svg.png"/><url>https://indihometv.com</url></channel>
@@ -53,7 +53,7 @@
 <channel id="SindoNewsTV.id@SD"><display-name>SINDO News TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SindoNewsTV_2023.png/960px-SindoNewsTV_2023.png"/><url>https://indihometv.com</url></channel>
 <channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://indihometv.com</url></channel>
 <channel id="MentariTV.id@SD"><display-name>Mentari TV</display-name><icon src="https://i.imgur.com/QkTgy1M.png"/><url>https://indihometv.com</url></channel>
-<channel id="MAXStream.id@SD"><display-name>Maxstream</display-name><icon src="https://images.maxstream.tv/sites/default/files/entry/0_ixad1kw8/landscape_carousel_xxhdpi.webp"/><url>https://indihometv.com</url></channel>
+<channel id="MAXStream.id@SD"><display-name>Maxstream</display-name><url>https://indihometv.com</url></channel>
 <channel id="LoveNature.ca@SD"><display-name>Love Nature</display-name><icon src="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"/><url>https://indihometv.com</url></channel>
 <channel id="LifetimeAsia.us@SD"><display-name>Lifetime</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="KPlus.sg@SD"><display-name>Kplus</display-name><icon src="https://i.imgur.com/RbS0q71.png"/><url>https://indihometv.com</url></channel>
@@ -101,7 +101,7 @@
 <channel id="CinemaWorld.my@SD"><display-name>Cinema World</display-name><icon src="https://i.imgur.com/D2qNVZ7.png"/><url>https://indihometv.com</url></channel>
 <channel id="ChineseDrama.hk@SD"><display-name>Chinese Drama</display-name><icon src="https://i.imgur.com/OD1dGmg.png"/><url>https://indihometv.com</url></channel>
 <channel id="CGTNDocumentary.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.imgur.com/JHv0WxM.png"/><url>https://indihometv.com</url></channel>
-<channel id="CelestialMoviesIndonesia.id@SD"><display-name>Celestial Movie</display-name><icon src="https://i.imgur.com/KYP1xXZ.png"/><url>https://indihometv.com</url></channel>
+<channel id="CelestialMoviesIndonesia.id@SD"><display-name>Celestial Movie</display-name><url>https://indihometv.com</url></channel>
 <channel id="CitraDrama.id@SD"><display-name>Citra Drama</display-name><icon src="https://i.imgur.com/lXhXwx7.png"/><url>https://indihometv.com</url></channel>
 <channel id="CCTV4Asia.cn@SD"><display-name>CCTV4</display-name><icon src="https://i.imgur.com/tWt4Wou.png"/><url>https://indihometv.com</url></channel>
 <channel id="CartoonNetworkAsia.sg@SD"><display-name>Cartoon Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"/><url>https://indihometv.com</url></channel>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260805">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260807">
 <channel id="Inspirasi.my@SD"><display-name>Inspirasi</display-name><url>https://playtv.unifi.com.my</url></channel>
-<channel id="NickJrAsia.sg@SD"><display-name>Nick Jr.</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="64822719"><display-name>TVS</display-name><url>https://playtv.unifi.com.my</url></channel>
 <channel id="59953839"><display-name>ONE</display-name><url>https://playtv.unifi.com.my</url></channel>
 <channel id="59924306"><display-name>Moonbug</display-name><url>https://playtv.unifi.com.my</url></channel>
@@ -19,10 +18,10 @@
 <channel id="beINSports.qa@MENA"><display-name>beIN SPORTS</display-name><icon src="https://i.imgur.com/RLrMBlm.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="UnifiSports1.my@SD"><display-name>unifi Sports 1</display-name><icon src="https://i.imgur.com/Ixoabqf.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="HITSMovies.sg@SD"><display-name>HITS Movies</display-name><icon src="https://i.imgur.com/kyE3vXf.png"/><url>https://playtv.unifi.com.my</url></channel>
-<channel id="CelestialClassicMovies.my@SD"><display-name>CCM</display-name><icon src="https://i.imgur.com/X7OZ3w5.png"/><url>https://playtv.unifi.com.my</url></channel>
+<channel id="CelestialClassicMovies.my@SD"><display-name>CCM</display-name><url>https://playtv.unifi.com.my</url></channel>
 <channel id="AXNAsia.sg@Malaysia"><display-name>AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="GEM.sg@SD"><display-name>GEM</display-name><icon src="https://i.imgur.com/DjI6SS1.png"/><url>https://playtv.unifi.com.my</url></channel>
-<channel id="CelestialMoviesMalaysia.my@SD"><display-name>Celestial Movies</display-name><icon src="https://i.imgur.com/KYP1xXZ.png"/><url>https://playtv.unifi.com.my</url></channel>
+<channel id="CelestialMoviesMalaysia.my@SD"><display-name>Celestial Movies</display-name><url>https://playtv.unifi.com.my</url></channel>
 <channel id="KPlus.sg@SD"><display-name>K-Plus</display-name><icon src="https://i.imgur.com/RbS0q71.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="HITS.sg@SD"><display-name>HITS</display-name><icon src="https://i.imgur.com/IM8Gy1l.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="LoveNature.ca@SD"><display-name>Love Nature HD</display-name><icon src="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"/><url>https://playtv.unifi.com.my</url></channel>
@@ -65,4 +64,5 @@
 <channel id="TV3.my@SD"><display-name>TV3</display-name><icon src="https://i.imgur.com/bHcZgIo.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="TV1.my@SD"><display-name>TV1</display-name><icon src="https://i.imgur.com/wSyPmiY.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="CBeebiesAsia.uk@SD"><display-name>CBeebies HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png"/><url>https://playtv.unifi.com.my</url></channel>
+<channel id="NickJrAsia.sg@SD"><display-name>Nick Jr.</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"/><url>https://playtv.unifi.com.my</url></channel>
 </tv>
