@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260919">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260920">
 <channel id="Inspirasi.my@SD"><display-name>Inspirasi</display-name><url>https://playtv.unifi.com.my</url></channel>
 <channel id="64822719"><display-name>TVS</display-name><url>https://playtv.unifi.com.my</url></channel>
 <channel id="59953839"><display-name>ONE</display-name><url>https://playtv.unifi.com.my</url></channel>
@@ -27,7 +27,7 @@
 <channel id="LoveNature.ca@SD"><display-name>Love Nature HD</display-name><icon src="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="ColorsTamil.in@SD"><display-name>Colors Tamil HD</display-name><icon src="https://dtil.tmsimg.com/assets/s158241_ld_h15_aa.png?lock=720x540"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="SPOTV2.kr@SD"><display-name>SPOTV2</display-name><icon src="https://i.imgur.com/YD8fbTH.png"/><url>https://playtv.unifi.com.my</url></channel>
-<channel id="DreamWorksChannelAsia.us@SD"><display-name>Dreamworks HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png"/><url>https://playtv.unifi.com.my</url></channel>
+<channel id="DreamWorksChannelAsia.us@SD"><display-name>Dreamworks HD</display-name><url>https://playtv.unifi.com.my</url></channel>
 <channel id="BBCEarth.uk@Asia"><display-name>BBC Earth HD</display-name><icon src="https://i.imgur.com/nGSsUd4.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="BernamaTV.my@SD"><display-name>Bernama TV</display-name><icon src="https://i.imgur.com/skJjF4m.png"/><url>https://playtv.unifi.com.my</url></channel>
 <channel id="Sensasi.my@SD"><display-name>Sensasi</display-name><url>https://playtv.unifi.com.my</url></channel>
