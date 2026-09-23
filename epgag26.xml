@@ -1,43 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="SDPLAY EPG Generator">
-  <channel id="3X3 Basketball">
-    <display-name>Asian Games Aichi-Nagoya 2026</display-name>
+  <channel id="3x3 Basketball">
+    <display-name>3x3 Basketball - Day 3</display-name>
     <icon src="https://file.garden/al8cdXw2E2LRZosN/OTHER/ASIANGAMES26.png" />
   </channel>
-  <programme start="20260923140500 +0800" stop="20260923143500 +0800" channel="3X3 Basketball">
-    <title>Women Round Robin Pool B Game 5</title>
-    <sub-title>Japan vs Uzbekistan</sub-title>
-    <desc>Japan vs Uzbekistan | Japan 12 - 7 Uzbekistan | Running | Kinjo Futo Station Square Venue</desc>
-    <category>Asian Games Aichi-Nagoya 2026</category>
-  </programme>
-  <programme start="20260923143000 +0800" stop="20260923150000 +0800" channel="3X3 Basketball">
-    <title>Men Round Robin Pool C Game 5</title>
-    <sub-title>Qatar vs Bahrain</sub-title>
-    <desc>Qatar vs Bahrain | Start List | Kinjo Futo Station Square Venue</desc>
-    <category>Asian Games Aichi-Nagoya 2026</category>
-  </programme>
-  <programme start="20260923145500 +0800" stop="20260923152500 +0800" channel="3X3 Basketball">
-    <title>Men Round Robin Pool C Game 6</title>
-    <sub-title>Indonesia vs Chinese Taipei</sub-title>
-    <desc>Indonesia vs Chinese Taipei | Scheduled | Kinjo Futo Station Square Venue</desc>
-    <category>Asian Games Aichi-Nagoya 2026</category>
-  </programme>
-  <programme start="20260923174000 +0800" stop="20260923181000 +0800" channel="3X3 Basketball">
-    <title>Women Round Robin Pool C Game 5</title>
-    <sub-title>Mongolia vs Macao, China</sub-title>
-    <desc>Mongolia vs Macao, China | Scheduled | Kinjo Futo Station Square Venue</desc>
-    <category>Asian Games Aichi-Nagoya 2026</category>
-  </programme>
-  <programme start="20260923180500 +0800" stop="20260923183500 +0800" channel="3X3 Basketball">
-    <title>Women Round Robin Pool C Game 6</title>
-    <sub-title>Philippines vs Malaysia</sub-title>
-    <desc>Philippines vs Malaysia | Scheduled | Kinjo Futo Station Square Venue</desc>
-    <category>Asian Games Aichi-Nagoya 2026</category>
-  </programme>
-  <programme start="20260923183000 +0800" stop="20260923190000 +0800" channel="3X3 Basketball">
-    <title>Men Round Robin Pool B Game 5</title>
-    <sub-title>People's Republic of China vs Hong Kong, China</sub-title>
-    <desc>People's Republic of China vs Hong Kong, China | Scheduled | Kinjo Futo Station Square Venue</desc>
-    <category>Asian Games Aichi-Nagoya 2026</category>
+  <programme start="20260923130500 +0800" stop="20260923200000 +0800" channel="3x3 Basketball">
+    <title>3x3 Basketball</title>
+    <desc>14:05 — Japan vs Uzbekistan (Women Round Robin Pool B Game 5)
+Qatar vs Bahrain (Men Round Robin Pool C Game 5)
+Indonesia vs Chinese Taipei (Men Round Robin Pool C Game 6)
+Mongolia vs Macao, China (Women Round Robin Pool C Game 5)
+Philippines vs Malaysia (Women Round Robin Pool C Game 6)
+People's Republic of China vs Hong Kong, China (Men Round Robin Pool B Game 5)
+Venue: Kinjo Futo Station Square Venue</desc>
+    <category>3x3 Basketball</category>
   </programme>
 </tv>
