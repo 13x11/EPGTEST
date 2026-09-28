@@ -1,18 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="SDPLAY EPG Generator">
-  <channel id="3x3 Basketball">
-    <display-name>3x3 Basketball - Day 3</display-name>
-    <icon src="https://file.garden/al8cdXw2E2LRZosN/OTHER/ASIANGAMES26.png" />
-  </channel>
-  <programme start="20260923130500 +0800" stop="20260923200000 +0800" channel="3x3 Basketball">
-    <title>3x3 Basketball</title>
-    <desc>Japan vs Uzbekistan (Women Round Robin Pool B Game 5)
-Qatar vs Bahrain (Men Round Robin Pool C Game 5)
-Indonesia vs Chinese Taipei (Men Round Robin Pool C Game 6)
-Mongolia vs Macao, China (Women Round Robin Pool C Game 5)
-Philippines vs Malaysia (Women Round Robin Pool C Game 6)
-People's Republic of China vs Hong Kong, China (Men Round Robin Pool B Game 5)
-Venue: Kinjo Futo Station Square Venue</desc>
-    <category>3x3 Basketball</category>
+<?xml version='1.0' encoding='UTF-8'?>
+<tv generator-info-name="https://github.com/dbghelp">
+	<channel id="BM01">
+		<display-name>Court 1</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318760'&amp;EntityType='Item'&amp;EntityId='97098'&amp;Width=356&amp;Height=250" />
+	</channel>
+	<channel id="BM02">
+		<display-name>Court 2</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318750'&amp;EntityType='Item'&amp;EntityId='97104'&amp;Width=369&amp;Height=250" />
+	</channel>
+	<channel id="PD01">
+		<display-name>Center Court</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318764'&amp;EntityType='Item'&amp;EntityId='97129'&amp;Width=396&amp;Height=250" />
+	</channel>
+  <channel id="PD02">
+		<display-name>Court 2</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318764'&amp;EntityType='Item'&amp;EntityId='97129'&amp;Width=396&amp;Height=250" />
+	</channel>
+  <programme start="20260928082500 +0800" stop="20260929000000 +0800" channel="BM01">
+    <title>Badminton Court 1</title>
+    <desc>Mixed Doubles Semifinals CHN vs INA | Women's Doubles Semifinals JPN vs KOR | Men's Doubles Semifinals KOR vs INA | Women's Singles Semifinals JPN vs CHN | Men's Singles Semifinals INA vs THA</desc>
+    <category>20th Asian Games Aichi-Nagoya</category>
+  </programme>
+  <programme start="20260928082500 +0800" stop="20260929000000 +0800" channel="BM02">
+    <title>Badminton Court 2</title>
+    <desc>Women's Doubles Semifinals CHN vs MAS | Mixed Doubles Semifinals TPE vs CHN | Women's Singles Semifinals KOR vs CHN | Men's Doubles Semifinals CHN vs INA | Men's Singles Semifinals SGP vs KOR</desc>
+    <category>20th Asian Games Aichi-Nagoya</category>
   </programme>
 </tv>
