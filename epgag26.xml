@@ -12,18 +12,18 @@
 		<display-name>Center Court</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318764'&amp;EntityType='Item'&amp;EntityId='97129'&amp;Width=396&amp;Height=250" />
 	</channel>
-  <channel id="PD02">
+  	<channel id="PD02">
 		<display-name>Court 2</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318764'&amp;EntityType='Item'&amp;EntityId='97129'&amp;Width=396&amp;Height=250" />
 	</channel>
-  <programme start="20260928082500 +0800" stop="20260929000000 +0800" channel="BM01">
-    <title>Badminton Court 1</title>
-    <desc>Mixed Doubles Semifinals CHN vs INA | Women's Doubles Semifinals JPN vs KOR | Men's Doubles Semifinals KOR vs INA | Women's Singles Semifinals JPN vs CHN | Men's Singles Semifinals INA vs THA</desc>
+  	<programme start="20260928082500 +0800" stop="20260929000000 +0800" channel="BM01">
+    	<title>Badminton Court 1</title>
+    	<desc>Mixed Doubles Semifinals CHN vs INA | Women's Doubles Semifinals JPN vs KOR | Men's Doubles Semifinals KOR vs INA | Women's Singles Semifinals JPN vs CHN | Men's Singles Semifinals INA vs THA</desc>
     <category>20th Asian Games Aichi-Nagoya</category>
-  </programme>
-  <programme start="20260928082500 +0800" stop="20260929000000 +0800" channel="BM02">
-    <title>Badminton Court 2</title>
-    <desc>Women's Doubles Semifinals CHN vs MAS | Mixed Doubles Semifinals TPE vs CHN | Women's Singles Semifinals KOR vs CHN | Men's Doubles Semifinals CHN vs INA | Men's Singles Semifinals SGP vs KOR</desc>
+  	</programme>
+  	<programme start="20260928082500 +0800" stop="20260929000000 +0800" channel="BM02">
+    	<title>Badminton Court 2</title>
+    	<desc>Women's Doubles Semifinals CHN vs MAS | Mixed Doubles Semifinals TPE vs CHN | Women's Singles Semifinals KOR vs CHN | Men's Doubles Semifinals CHN vs INA | Men's Singles Semifinals SGP vs KOR</desc>
     <category>20th Asian Games Aichi-Nagoya</category>
-  </programme>
+  	</programme>
 </tv>
