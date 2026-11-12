@@ -1,4 +1,5 @@
 name: Update My EPG
+
 on:
   schedule:
     - cron: '0 17 * * *' # Berjalan otomatis jam 12 malam WIB
@@ -32,7 +33,7 @@ jobs:
       - name: Grab UNIFI
         run: npm run grab -- --site=playtv.unifi.com.my --output=unifi.xml
 
-       - name: Grab SKYNZCO
+      - name: Grab SKYNZCO
         run: npm run grab -- --site=sky.co.nz --output=skynzco.xml
 
       - name: Commit and Push to Repository
@@ -42,10 +43,3 @@ jobs:
           git add visionplus.xml vidio.xml indihome.xml unifi.xml
           git commit -m "Update EPG: $(date)" || exit 0
           git push
-
-
-
-
-
-
-
